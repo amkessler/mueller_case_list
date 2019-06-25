@@ -1,6 +1,6 @@
 page,line,newcase_mark,text
 1,6,,Case Number/Title Dates Category/ Event
-1,7,,1:17-mj-00459-BAH *SEALED* Entered: Category: misc-cr Event: Application and
+1,7,New Case,1:17-mj-00459-BAH *SEALED* Entered: Category: misc-cr Event: Application and
 1,8,,USA v. INFORMATION ASSOCIATED 07/07/2017 Affidavit for
 1,9,,WITH THE EMAIL ACCOUNT 11:15:14 Search/Seizure Warrant under Rule 41 by
 1,10,,[REDACTED] Filed: USA
@@ -384,7 +384,7 @@ page,line,newcase_mark,text
 10,17,,THE MATTER OF THE SEARCH OF AN 09/01/2017 Event: Application and Affidavit for
 10,18,,APPLE IPHONE WITH IMEI 09:51:18 Search/Seizure Warrant under Rule 41 by
 10,19,,[REDACTED] Filed: USA Document: 1
-10,20,,9/1/2017
+10,20,,09/01/2017
 10,21,,Application and Affidavit for Search Warrant by USA as
 10,22,,to IN THE MATTER OF THE SEARCH OF AN APPLE
 10,23,,iPhone WITH IMEI [REDACTED]. (Attachments: # 1
@@ -1317,7 +1317,7 @@ page,line,newcase_mark,text
 34,21,,"THE CELLULAR TELEPHONE 13:32:20 U.S.C. 2703 (a), 2703(b)(1) (A), and"
 34,22,,ASSIGNED CALL NUMBER Filed: 2703 (c)(1)(A) Document:
 34,23,,[REDACTED] CASE CLOSED on 02/16/2018 1
-34,24,,6/27/2018
+34,24,,06/27/2018
 34,25,,APPLICATION for Search/Seizure Warrant by USA
 34,26,,pursuant to 18 U.S.C 2703(a) & (b) filed by UNITED
 34,27,,"STATES OF AMERICA. (Attachments: # 1 Affidavit, # 2"
@@ -1384,7 +1384,7 @@ page,line,newcase_mark,text
 36,11,,"[REDACTED] THAT ARE STORED AT 14:24:23 U.S.C. 2703 (a), 2703(b)(1) (A), and"
 36,12,,PREMISES CONTROLLED BY Filed: 2703 (c)(1)(A) Document:
 36,13,,[REDACTED] CASE CLOSED on 03/12/2018 1
-36,14,,7/19/2018
+36,14,,07/19/2018
 36,15,,APPLICATION for Search/Seizure Warrant by USA
 36,16,,pursuant to 18 U.S.C 2703(a) & (b) filed by UNITED
 36,17,,"STATES OF AMERICA. (Attachments: # 1 Affidavit, # 2"
@@ -1411,7 +1411,7 @@ page,line,newcase_mark,text
 36,38,,"[REDACTED], WHICH IS STORED AT 10:41:23 U.S.C. 2703 (a), 2703(b)(1) (A), and"
 36,39,,PREMISES CONTROLLED BY Filed: 2703 (c)(1)(A) Document:
 36,40,,[REDACTED] CASE CLOSED on 03/12/2018 1
-36,41,,8/15/2018
+36,41,,08/15/2018
 36,42,,36
 36,43,,
 37,2,,APPLICATION for Search/Seizure Warrant by USA
@@ -2689,7 +2689,7 @@ page,line,newcase_mark,text
 67,4,,"[REDACTED], THAT IS STORED AT 13:48:18 U.S.C. 2703 (a), 2703(b)(1) (A), and"
 67,5,,PREMISES CONTROLLED BY Filed: 2703 (c)(1)(A) Document:
 67,6,,[REDACTED] CASE CLOSED on 04/24/2018 1
-67,7,,8/16/2018
+67,7,,08/16/2018
 67,8,,APPLICATION for Search/Seizure Warrant by USA
 67,9,,pursuant to 18 U.S.C 2703(a) & (b) filed by UNITED
 67,10,,"STATES OF AMERICA. (Attachments: # 1 Affidavit, # 2"
@@ -6484,7 +6484,7 @@ page,line,newcase_mark,text
 157,11,,ORDER PURSUANT TO
 157,12,,18 U.S.C. 2703 (D)
 157,13,,CASE CLOSED on
-157,14,,7/7/2017
+157,14,,07/07/2017
 157,15,,APPLICATION FOR ORDER pursuant to 18 U.S.C.
 157,16,,2703(d) requiring
 157,17,,Google to provide records and other information filed
@@ -6499,7 +6499,7 @@ page,line,newcase_mark,text
 157,26,,ORDER PURSUANT TO
 157,27,,18 U.S.C. 2703 (D)
 157,28,,CASE CLOSED on
-157,29,,4/1/2019
+157,29,,04/01/2019
 157,30,,APPLICATION for Order pursuant to 18 U.S.C.
 157,31,,2703(d) requiring AT&T to provide records and other
 157,32,,information filed by UNITED STATES OF AMERICA.
@@ -6514,7 +6514,7 @@ page,line,newcase_mark,text
 158,2,,ORDER PURSUANT TO
 158,3,,18 U.S.C. 2703 (D)
 158,4,,CASE CLOSED on
-158,5,,4/1/2019
+158,5,,04/01/2019
 158,6,,APPLICATION for Order pursuant to 18 U.S.C.
 158,7,,2703(d) requiring
 158,8,,"Twitter, Inc. to provide records and other information"
@@ -6540,7 +6540,7 @@ page,line,newcase_mark,text
 158,28,,ORDER PURSUANT TO
 158,29,,18 U.S.C. 2703 (D)
 158,30,,CASE CLOSED on
-158,31,,8/18/2017
+158,31,,08/18/2017
 158,32,,APPLICATION for Order pursuant to 18 U.S.C.
 158,33,,2703(d) requiring
 158,34,,Google to provide records and other information filed
@@ -6557,7 +6557,7 @@ page,line,newcase_mark,text
 159,3,,ORDER PURSUANT TO
 159,4,,18 U.S.C. 2703 (D)
 159,5,,CASE CLOSED on
-159,6,,8/18/2017
+159,6,,08/18/2017
 159,7,,APPLICATION for Order pursuant to 18 U.S.C.
 159,8,,2703(d) requiring
 159,9,,"Network Solutions, LLC to provide records and other"
@@ -6573,7 +6573,7 @@ page,line,newcase_mark,text
 159,19,,PURSUANT TO 18
 159,20,,U.S.C. 2703 (D)
 159,21,,CASE CLOSED on
-159,22,,9/1/2017
+159,22,,09/01/2017
 159,23,,APPLICATION for Order pursuant to 18 U.S.C.
 159,24,,2703(d) requiring Radical
 159,25,,"App, LLC to provide records and other information"
@@ -6601,7 +6601,7 @@ page,line,newcase_mark,text
 160,11,,ORDER PURSUANT TO
 160,12,,18 U.S.C. 2703(D)
 160,13,,CASE CLOSED on
-160,14,,9/15/2017
+160,14,,09/15/2017
 160,15,,APPLICATION for Order pursuant to 18 U.S.C.
 160,16,,2703(d) requiring AT&T to provide records and other
 160,17,,information filed by UNITED STATES OF AMERICA.
@@ -6614,7 +6614,7 @@ page,line,newcase_mark,text
 160,24,,ORDER PURSUANT TO
 160,25,,18 U.S.C. 2703(D)
 160,26,,CASE CLOSED on
-160,27,,9/19/2017
+160,27,,09/19/2017
 160,28,,APPLICATION for Order pursuant to 18 U.S.C.
 160,29,,2703(d) requiring Google to provide records and other
 160,30,,information filed by UNITED STATES OF AMERICA.
@@ -6629,7 +6629,7 @@ page,line,newcase_mark,text
 160,39,,4
 160,40,,
 161,2,,CASE CLOSED on
-161,3,,9/19/2017
+161,3,,09/19/2017
 161,4,,APPLICATION for Order pursuant to 18 U.S.C.
 161,5,,2703(d) requiring Microsoft to provide records and
 161,6,,other information filed by UNITED STATES OF
@@ -6642,7 +6642,7 @@ page,line,newcase_mark,text
 161,13,,ORDER PURSUANT TO
 161,14,,18 U.S.C. 2703(D)
 161,15,,CASE CLOSED on
-161,16,,10/6/2017
+161,16,,10/06/2017
 161,17,,APPLICATION for Order pursuant to 18 U.S.C.
 161,18,,2703(d) requiring records and other information to be
 161,19,,provided filed by UNITED STATES OF AMERICA.
@@ -6655,7 +6655,7 @@ page,line,newcase_mark,text
 161,26,,ORDER PURSUANT TO
 161,27,,18 U.S.C. 2703(D)
 161,28,,CASE CLOSED on
-161,29,,10/6/2017
+161,29,,10/06/2017
 161,30,,APPLICATION for Order pursuant to 18 U.S.C.
 161,31,,2703(d) requiring records and other information to be
 161,32,,provided filed by UNITED STATES OF AMERICA.
@@ -6670,7 +6670,7 @@ page,line,newcase_mark,text
 161,41,,
 162,2,,18 U.S.C. 2703(D)
 162,3,,CASE CLOSED on
-162,4,,10/6/2017
+162,4,,10/06/2017
 162,5,,APPLICATION for Order pursuant to 18 U.S.C.
 162,6,,2703(d) requiring
 162,7,,records and other information to be provided filed by
@@ -6712,7 +6712,7 @@ page,line,newcase_mark,text
 163,2,,ORDER PURSUANT TO
 163,3,,18 U.S.C. 2703(D)
 163,4,,CASE CLOSED on
-163,5,,12/1/2017
+163,5,,12/01/2017
 163,6,,APPLICATION for Order pursuant to 18 U.S.C.
 163,7,,2703(d) requiring records and other information to be
 163,8,,provided filed by UNITED STATES OF AMERICA.
@@ -6725,7 +6725,7 @@ page,line,newcase_mark,text
 163,15,,ORDER PURSUANT TO
 163,16,,18 U.S.C. 2703(D)
 163,17,,CASE CLOSED on
-163,18,,4/1/2019
+163,18,,04/01/2019
 163,19,,APPLICATION for Order pursuant to 18 U.S.C.
 163,20,,2703(d) requiring records and other information to be
 163,21,,provided filed by UNITED STATES OF AMERICA.
@@ -6766,7 +6766,7 @@ page,line,newcase_mark,text
 164,17,,ORDER PURSUANT TO
 164,18,,18 U.S.C. 2703(D)
 164,19,,CASE CLOSED on
-164,20,,4/1/2019
+164,20,,04/01/2019
 164,21,,APPLICATION for Order pursuant to 18 U.S.C.
 164,22,,2703(d) requiring records and other information to be
 164,23,,provided filed by UNITED STATES OF AMERICA.
@@ -6782,7 +6782,7 @@ page,line,newcase_mark,text
 164,33,,ORDER PURSUANT TO
 164,34,,18 U.S.C. 2703(D)
 164,35,,CASE CLOSED on
-164,36,,4/1/2019
+164,36,,04/01/2019
 164,37,,8
 164,38,,
 165,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -6797,7 +6797,7 @@ page,line,newcase_mark,text
 165,11,,ORDER PURSUANT TO
 165,12,,18 U.S.C. 2703(D)
 165,13,,CASE CLOSED on
-165,14,,11/7/2017
+165,14,,11/07/2017
 165,15,,APPLICATION for Order pursuant to 18 U.S.C.
 165,16,,2703(d) requiring records and other information to be
 165,17,,provided filed by UNITED STATES OF AMERICA.
@@ -6810,7 +6810,7 @@ page,line,newcase_mark,text
 165,24,,ORDER PURSUANT TO
 165,25,,18 U.S.C. 2703(D)
 165,26,,CASE CLOSED on
-165,27,,11/9/2017
+165,27,,11/09/2017
 165,28,,APPLICATION for Order pursuant to 18 U.S.C.
 165,29,,2703(d) requiring records and other information to be
 165,30,,provided filed by UNITED STATES OF AMERICA.
@@ -6868,7 +6868,7 @@ page,line,newcase_mark,text
 167,3,,PURSUANT TO 18
 167,4,,U.S.C. 2703(D)
 167,5,,CASE CLOSED on
-167,6,,4/1/2019
+167,6,,04/01/2019
 167,7,,APPLICATION for Order pursuant to 18 U.S.C.
 167,8,,2703(d) requiring records
 167,9,,and other information to be provided filed by UNITED
@@ -6966,7 +6966,7 @@ page,line,newcase_mark,text
 169,27,,APPLICATION OF THE UNITED 11/29/2017 misc
 169,28,,STATES OF AMERICA FOR AN Event:
 169,29,,ORDER PURSUANT TO 18 U.S.C. 27 10:32:00 Application
-169,30,,3
+169,30,,03
 169,31,,(d) Filed: for Order
 169,32,,CASE CLOSED on 11/29/2017 11/29/2017 pursuant to
 169,33,,18 U.S.C.
@@ -6999,7 +6999,7 @@ page,line,newcase_mark,text
 170,23,,ORDER PURSUANT TO
 170,24,,18 U.S.C. 2703(D) et al
 170,25,,CASE CLOSED on
-170,26,,12/6/2017
+170,26,,12/06/2017
 170,27,,APPLICATION for Order pursuant to 18 U.S.C.
 170,28,,2703(d) requiring records and other information to be
 170,29,,provided filed by UNITED STATES OF AMERICA.
@@ -7014,7 +7014,7 @@ page,line,newcase_mark,text
 170,38,,CASE CLOSED on
 170,39,,14
 170,40,,
-171,2,,12/6/2017
+171,2,,12/06/2017
 171,3,,APPLICATION for Order pursuant to 18 U.S.C.
 171,4,,2703(d) requiring records and other information to be
 171,5,,provided filed by UNITED STATES OF AMERICA.
@@ -7114,7 +7114,7 @@ page,line,newcase_mark,text
 173,26,,ORDER PURSUANT TO
 173,27,,18 U.S.C. 2703(D)
 173,28,,CASE CLOSED on
-173,29,,1/3/2018
+173,29,,01/03/2018
 173,30,,APPLICATION for Order pursuant to 18 U.S.C.
 173,31,,2703(d) requiring records and other information to be
 173,32,,provided filed by UNITED STATES OF AMERICA.
@@ -7128,7 +7128,7 @@ page,line,newcase_mark,text
 174,6,,ORDER PURSUANT TO
 174,7,,18 U.S.C. 2703(D)
 174,8,,CASE CLOSED on
-174,9,,1/3/2018
+174,9,,01/03/2018
 174,10,,APPLICATION for Order pursuant to 18 U.S.C.
 174,11,,2703(d) requiring records and other information to be
 174,12,,provided filed by UNITED STATES OF AMERICA.
@@ -7140,7 +7140,7 @@ page,line,newcase_mark,text
 174,18,,ORDER PURSUANT TO
 174,19,,18 U.S.C. 2703(D)
 174,20,,CASE CLOSED on
-174,21,,1/5/2018
+174,21,,01/05/2018
 174,22,,APPLICATION for Order pursuant to 18 U.S.C.
 174,23,,2703(d) requiring records and other information to be
 174,24,,provided filed by UNITED STATES OF AMERICA.
@@ -7153,7 +7153,7 @@ page,line,newcase_mark,text
 174,31,,ORDER PURSUANT TO
 174,32,,18 U.S.C. 2703(D)
 174,33,,CASE CLOSED on
-174,34,,1/11/2018
+174,34,,01/11/2018
 174,35,,APPLICATION for Order pursuant to 18 U.S.C.
 174,36,,2703(d) requiring records and other information to be
 174,37,,provided filed by UNITED STATES OF AMERICA.
@@ -7169,7 +7169,7 @@ page,line,newcase_mark,text
 175,7,,ORDER PURSUANT TO
 175,8,,18 U.S.C. 2703(D)
 175,9,,CASE CLOSED on
-175,10,,1/11/2018
+175,10,,01/11/2018
 175,11,,APPLICATION for Order pursuant to 18 U.S.C.
 175,12,,2703(d) requiring records and other information to be
 175,13,,provided filed by UNITED STATES OF AMERICA.
@@ -7182,7 +7182,7 @@ page,line,newcase_mark,text
 175,20,,ORDER PURSUANT TO
 175,21,,18 U.S.C. 2703(D)
 175,22,,CASE CLOSED on
-175,23,,1/16/2018
+175,23,,01/16/2018
 175,24,,APPLICATION for Order pursuant to 18 U.S.C.
 175,25,,2703(d) requiring records and other information to be
 175,26,,provided filed by UNITED STATES OF AMERICA.
@@ -7195,7 +7195,7 @@ page,line,newcase_mark,text
 175,33,,ORDER PURSUANT TO
 175,34,,18 U.S.C. 2703(D)
 175,35,,CASE CLOSED on
-175,36,,1/17/2018
+175,36,,01/17/2018
 175,37,,19
 175,38,,
 176,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -7210,7 +7210,7 @@ page,line,newcase_mark,text
 176,11,,ORDER PURSUANT TO
 176,12,,18 U.S.C. 2703(D)
 176,13,,CASE CLOSED on
-176,14,,1/17/2018
+176,14,,01/17/2018
 176,15,,APPLICATION for Order pursuant to 18 U.S.C.
 176,16,,2703(d) requiring records and other information to be
 176,17,,provided filed by UNITED STATES OF AMERICA.
@@ -7223,7 +7223,7 @@ page,line,newcase_mark,text
 176,24,,ORDER PURSUANT TO
 176,25,,18 U.S.C. 2703(D)
 176,26,,CASE CLOSED on
-176,27,,1/23/2018
+176,27,,01/23/2018
 176,28,,APPLICATION for Order pursuant to 18 U.S.C.
 176,29,,2703(d) requiring records and other information to be
 176,30,,provided filed by UNITED STATES OF AMERICA.
@@ -7238,7 +7238,7 @@ page,line,newcase_mark,text
 176,39,,CASE CLOSED on
 176,40,,20
 176,41,,
-177,2,,1/25/2018
+177,2,,01/25/2018
 177,3,,APPLICATION for Order pursuant to 18 U.S.C.
 177,4,,2703(d) requiring records and other information to be
 177,5,,provided filed by UNITED STATES OF AMERICA.
@@ -7251,7 +7251,7 @@ page,line,newcase_mark,text
 177,12,,ORDER PURSUANT TO
 177,13,,18 U.S.C. 2703(D)
 177,14,,CASE CLOSED on
-177,15,,2/5/2018
+177,15,,02/05/2018
 177,16,,APPLICATION for Order pursuant to 18 U.S.C.
 177,17,,2703(d) requiring records and other information to be
 177,18,,provided filed by UNITED STATES OF AMERICA.
@@ -7264,7 +7264,7 @@ page,line,newcase_mark,text
 177,25,,ORDER PURSUANT TO
 177,26,,18 U.S.C. 2703(D)
 177,27,,CASE CLOSED on
-177,28,,2/7/2018
+177,28,,02/07/2018
 177,29,,APPLICATION for Order pursuant to 18 U.S.C.
 177,30,,2703(d) requiring records and other information to be
 177,31,,provided filed by UNITED STATES OF AMERICA.
@@ -7283,7 +7283,7 @@ page,line,newcase_mark,text
 178,4,,ORDER PURSUANT TO
 178,5,,18 U.S.C. 2703(D)
 178,6,,CASE CLOSED on
-178,7,,2/9/2018
+178,7,,02/09/2018
 178,8,,APPLICATION for Order pursuant to 18 U.S.C.
 178,9,,2703(d) requiring records and other information to be
 178,10,,provided filed by UNITED STATES OF AMERICA.
@@ -7296,7 +7296,7 @@ page,line,newcase_mark,text
 178,17,,ORDER PURSUANT TO
 178,18,,18 U.S.C. 2703(D)
 178,19,,CASE CLOSED on
-178,20,,2/13/2018
+178,20,,02/13/2018
 178,21,,APPLICATION for Order pursuant to 18 U.S.C.
 178,22,,2703(d) requiring records and other information to be
 178,23,,provided filed by UNITED STATES OF AMERICA.
@@ -7309,7 +7309,7 @@ page,line,newcase_mark,text
 178,30,,ORDER PURSUANT TO
 178,31,,18 U.S.C. 2703(D)
 178,32,,CASE CLOSED on
-178,33,,2/13/2018
+178,33,,02/13/2018
 178,34,,APPLICATION for Order pursuant to 18 U.S.C.
 178,35,,2703(d) requiring records and other information to be
 178,36,,provided filed by UNITED STATES OF AMERICA.
@@ -7352,7 +7352,7 @@ page,line,newcase_mark,text
 179,33,,ORDER PURSUANT TO
 179,34,,18 U.S.C. 2703(D)
 179,35,,CASE CLOSED on
-179,36,,3/2/2018
+179,36,,03/02/2018
 179,37,,APPLICATION for Order pursuant to 18 U.S.C.
 179,38,,2703(d) requiring records and other information to be
 179,39,,provided filed by UNITED STATES OF AMERICA.
@@ -7391,7 +7391,7 @@ page,line,newcase_mark,text
 180,31,,ORDER PURSUANT TO
 180,32,,18 U.S.C. 2703(D)
 180,33,,CASE CLOSED on
-180,34,,3/2/2018
+180,34,,03/02/2018
 180,35,,APPLICATION for Order pursuant to 18 U.S.C.
 180,36,,2703(d) requiring records and other information to be
 180,37,,provided filed by UNITED STATES OF AMERICA.
@@ -7406,7 +7406,7 @@ page,line,newcase_mark,text
 181,6,,ORDER PURSUANT TO
 181,7,,18 U.S.C. 2703(D)
 181,8,,CASE CLOSED on
-181,9,,3/2/2018
+181,9,,03/02/2018
 181,10,,APPLICATION for Order pursuant to 18 U.S.C.
 181,11,,2703(d) requiringrecords and other information to be
 181,12,,provided filed by UNITED STATES OF AMERICA.
@@ -7431,7 +7431,7 @@ page,line,newcase_mark,text
 181,31,,ORDER PURSUANT TO
 181,32,,18 U.S.C. 2703(D)
 181,33,,CASE CLOSED on
-181,34,,3/2/2018
+181,34,,03/02/2018
 181,35,,APPLICATION for Order pursuant to 18 U.S.C.
 181,36,,2703(d) requiring records and other information to be
 181,37,,provided filed by UNITED STATES OF AMERICA.
@@ -7446,7 +7446,7 @@ page,line,newcase_mark,text
 182,7,,ORDER PURSUANT TO
 182,8,,18 U.S.C. 2703(D)
 182,9,,CASE CLOSED on
-182,10,,3/2/2018
+182,10,,03/02/2018
 182,11,,APPLICATION for Order pursuant to 18 U.S.C.
 182,12,,2703(d) requiring records and other information to be
 182,13,,provided filed by UNITED STATES OF AMERICA.
@@ -7459,7 +7459,7 @@ page,line,newcase_mark,text
 182,20,,ORDER PURSUANT TO
 182,21,,18 U.S.C. 2703(D)
 182,22,,CASE CLOSED on
-182,23,,3/5/2018
+182,23,,03/05/2018
 182,24,,APPLICATION for Order pursuant to 18 U.S.C.
 182,25,,2703(d) requiring records and other information to be
 182,26,,provided filed by UNITED STATES OF AMERICA.
@@ -7481,7 +7481,7 @@ page,line,newcase_mark,text
 183,2,,ORDER PURSUANT TO
 183,3,,18 U.S.C. 2703(D)
 183,4,,CASE CLOSED on
-183,5,,3/6/2018
+183,5,,03/06/2018
 183,6,,APPLICATION for Order pursuant to 18 U.S.C.
 183,7,,2703(d) requiring records and other information to be
 183,8,,provided filed by UNITED STATES OF AMERICA.
@@ -7494,7 +7494,7 @@ page,line,newcase_mark,text
 183,15,,ORDER PURSUANT TO
 183,16,,18 U.S.C. 2703(D)
 183,17,,CASE CLOSED on
-183,18,,3/20/2018
+183,18,,03/20/2018
 183,19,,APPLICATION for Order pursuant to 18 U.S.C.
 183,20,,2703(d) requiring records and other information to be
 183,21,,provided filed by UNITED STATES OF AMERICA.
@@ -7507,7 +7507,7 @@ page,line,newcase_mark,text
 183,28,,ORDER PURSUANT TO
 183,29,,18 U.S.C. 2703(D)
 183,30,,CASE CLOSED on
-183,31,,3/20/2018
+183,31,,03/20/2018
 183,32,,APPLICATION for Order pursuant to 18 U.S.C.
 183,33,,2703(d) requiring records and other information to be
 183,34,,provided filed by UNITED STATES OF AMERICA.
@@ -7522,7 +7522,7 @@ page,line,newcase_mark,text
 184,3,,ORDER PURSUANT TO
 184,4,,18 U.S.C. 2703(D)
 184,5,,CASE CLOSED on
-184,6,,3/20/2018
+184,6,,03/20/2018
 184,7,,APPLICATION for Order pursuant to 18 U.S.C.
 184,8,,2703(d) requiring records and other information to be
 184,9,,provided filed by UNITED STATES OF AMERICA.
@@ -7535,7 +7535,7 @@ page,line,newcase_mark,text
 184,16,,ORDER PURSUANT TO
 184,17,,18 U.S.C. 2703(D)
 184,18,,CASE CLOSED on
-184,19,,3/20/2018
+184,19,,03/20/2018
 184,20,,APPLICATION for Order pursuant to 18 U.S.C.
 184,21,,2703(d) requiring records and other information to be
 184,22,,provided filed by UNITED STATES OF AMERICA.
@@ -7548,7 +7548,7 @@ page,line,newcase_mark,text
 184,29,,ORDER PURSUANT TO
 184,30,,18 U.S.C. 2703(D)
 184,31,,CASE CLOSED on
-184,32,,3/20/2018
+184,32,,03/20/2018
 184,33,,APPLICATION for Order pursuant to 18 U.S.C.
 184,34,,2703(d) requiring records and other information to be
 184,35,,provided filed by UNITED STATES OF AMERICA.
@@ -7563,7 +7563,7 @@ page,line,newcase_mark,text
 185,4,,ORDER PURSUANT TO
 185,5,,18 U.S.C. 2703(D)
 185,6,,CASE CLOSED on
-185,7,,3/26/2018
+185,7,,03/26/2018
 185,8,,APPLICATION for Order pursuant to 18 U.S.C.
 185,9,,2703(d) requiring records and other information to be
 185,10,,provided filed by UNITED STATES OF AMERICA.
@@ -7576,7 +7576,7 @@ page,line,newcase_mark,text
 185,17,,ORDER PURSUANT TO
 185,18,,18 U.S.C. 2703(D)
 185,19,,CASE CLOSED on
-185,20,,3/29/2018
+185,20,,03/29/2018
 185,21,,APPLICATION for Order pursuant to 18 U.S.C.
 185,22,,2703(d) requiring records and other information to be
 185,23,,provided filed by UNITED STATES OF AMERICA.
@@ -7589,7 +7589,7 @@ page,line,newcase_mark,text
 185,30,,ORDER PURSUANT TO
 185,31,,18 U.S.C. 2703(D)
 185,32,,CASE CLOSED on
-185,33,,3/29/2018
+185,33,,03/29/2018
 185,34,,APPLICATION for Order pursuant to 18 U.S.C.
 185,35,,2703(d) requiring records and other information to be
 185,36,,provided filed by UNITED STATES OF AMERICA.
@@ -7614,7 +7614,7 @@ page,line,newcase_mark,text
 186,17,,ORDER PURSUANT TO
 186,18,,18 U.S.C. 2703(D)
 186,19,,CASE CLOSED on
-186,20,,3/30/2018
+186,20,,03/30/2018
 186,21,,APPLICATION for Order pursuant to 18 U.S.C.
 186,22,,2703(d) requiring records and other information to be
 186,23,,provided filed by UNITED STATES OF AMERICA.
@@ -7627,7 +7627,7 @@ page,line,newcase_mark,text
 186,30,,ORDER PURSUANT TO
 186,31,,18 U.S.C. 2703(D)
 186,32,,CASE CLOSED on
-186,33,,3/30/2018
+186,33,,03/30/2018
 186,34,,APPLICATION for Order pursuant to 18 U.S.C.
 186,35,,2703(d) requiring records and other information to be
 186,36,,provided filed by UNITED STATES OF AMERICA.
@@ -7642,7 +7642,7 @@ page,line,newcase_mark,text
 187,6,,ORDER PURSUANT TO
 187,7,,18 U.S.C. 2703(D)
 187,8,,CASE CLOSED on
-187,9,,4/6/2018
+187,9,,04/06/2018
 187,10,,APPLICATION for Order pursuant to 18 U.S.C.
 187,11,,2703(d) requiring records and other information to be
 187,12,,provided filed by UNITED STATES OF AMERICA.
@@ -7655,7 +7655,7 @@ page,line,newcase_mark,text
 187,19,,ORDER PURSUANT TO
 187,20,,18 U.S.C. 2703(D)
 187,21,,CASE CLOSED on
-187,22,,7/26/2018
+187,22,,07/26/2018
 187,23,,APPLICATION for Order pursuant to 18 U.S.C.
 187,24,,2703(d) requiring records and other information to be
 187,25,,provided filed by UNITED STATES OF AMERICA.
@@ -7682,7 +7682,7 @@ page,line,newcase_mark,text
 188,7,,ORDER PURSUANT TO
 188,8,,18 U.S.C. 2703(D)
 188,9,,CASE CLOSED on
-188,10,,4/9/2018
+188,10,,04/09/2018
 188,11,,APPLICATION for Order pursuant to 18 U.S.C.
 188,12,,2703(d) requiring records and other information to be
 188,13,,provided filed by UNITED STATES OF AMERICA.
@@ -7695,7 +7695,7 @@ page,line,newcase_mark,text
 188,20,,ORDER PURSUANT TO
 188,21,,18 U.S.C. 2703(D)
 188,22,,CASE CLOSED on
-188,23,,4/9/2018
+188,23,,04/09/2018
 188,24,,APPLICATION for Order pursuant to 18 U.S.C.
 188,25,,2703(d) requiring records and other information to be
 188,26,,provided filed by UNITED STATES OF AMERICA.
@@ -7708,7 +7708,7 @@ page,line,newcase_mark,text
 188,33,,ORDER PURSUANT TO
 188,34,,18 U.S.C. 2703(D)
 188,35,,CASE CLOSED on
-188,36,,4/9/2018
+188,36,,04/09/2018
 188,37,,32
 188,38,,
 189,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -7723,7 +7723,7 @@ page,line,newcase_mark,text
 189,11,,ORDER PURSUANT TO
 189,12,,18 U.S.C. 2703(D)
 189,13,,CASE CLOSED on
-189,14,,4/9/2018
+189,14,,04/09/2018
 189,15,,APPLICATION for Order pursuant to 18 U.S.C.
 189,16,,2703(d) requiring records and other information to be
 189,17,,provided filed by UNITED STATES OF AMERICA.
@@ -7750,7 +7750,7 @@ page,line,newcase_mark,text
 189,38,,33
 189,39,,
 190,2,,CASE CLOSED on
-190,3,,4/9/2018
+190,3,,04/09/2018
 190,4,,APPLICATION for Order pursuant to 18 U.S.C.
 190,5,,2703(d) requiring records and other information to be
 190,6,,provided filed by UNITED STATES OF AMERICA.
@@ -7763,7 +7763,7 @@ page,line,newcase_mark,text
 190,13,,ORDER PURSUANT TO
 190,14,,18 U.S.C. 2703(D)
 190,15,,CASE CLOSED on
-190,16,,4/9/2018
+190,16,,04/09/2018
 190,17,,APPLICATION for Order pursuant to 18 U.S.C.
 190,18,,2703(d) requiring records and other information to be
 190,19,,provided filed by UNITED STATES OF AMERICA.
@@ -7776,7 +7776,7 @@ page,line,newcase_mark,text
 190,26,,ORDER PURSUANT TO
 190,27,,18 U.S.C. 2703(D)
 190,28,,CASE CLOSED on
-190,29,,4/10/2018
+190,29,,04/10/2018
 190,30,,APPLICATION for Order pursuant to 18 U.S.C.
 190,31,,2703(d) requiring records and other information to be
 190,32,,provided filed by UNITED STATES OF AMERICA.
@@ -7791,7 +7791,7 @@ page,line,newcase_mark,text
 191,2,,ORDER PURSUANT TO
 191,3,,18 U.S.C. 2703(D)
 191,4,,CASE CLOSED on
-191,5,,4/10/2018
+191,5,,04/10/2018
 191,6,,APPLICATION for Order pursuant to 18 U.S.C.
 191,7,,2703(d) requiring records and other information to be
 191,8,,provided filed by UNITED STATES OF AMERICA.
@@ -7804,7 +7804,7 @@ page,line,newcase_mark,text
 191,15,,ORDER PURSUANT TO
 191,16,,18 U.S.C. 2703(D)
 191,17,,CASE CLOSED on
-191,18,,4/10/2018
+191,18,,04/10/2018
 191,19,,APPLICATION for Order pursuant to 18 U.S.C.
 191,20,,2703(d) requiring records and other information to be
 191,21,,provided filed by UNITED STATES OF AMERICA.
@@ -7817,7 +7817,7 @@ page,line,newcase_mark,text
 191,28,,ORDER PURSUANT TO
 191,29,,18 U.S.C. 2703 (D)
 191,30,,CASE CLOSED on
-191,31,,4/12/2018
+191,31,,04/12/2018
 191,32,,APPLICATION for Order pursuant to 18 U.S.C.
 191,33,,2703(d) requiring records and other information to be
 191,34,,provided filed by UNITED STATES OF AMERICA.
@@ -7832,7 +7832,7 @@ page,line,newcase_mark,text
 192,4,,ORDER PURSUANT TO
 192,5,,18 U.S.C. 2703(D)
 192,6,,CASE CLOSED on
-192,7,,4/12/2018
+192,7,,04/12/2018
 192,8,,APPLICATION for Order pursuant to 18 U.S.C.
 192,9,,2703(d) requiring records and other information to be
 192,10,,provided filed by UNITED STATES OF AMERICA.
@@ -7845,7 +7845,7 @@ page,line,newcase_mark,text
 192,17,,ORDER PURSUANT TO
 192,18,,18 U.S.C. 2703(D)
 192,19,,CASE CLOSED on
-192,20,,4/12/2018
+192,20,,04/12/2018
 192,21,,APPLICATION for Order pursuant to 18 U.S.C.
 192,22,,2703(d) requiring records and other information to be
 192,23,,provided filed by UNITED STATES OF AMERICA.
@@ -7858,7 +7858,7 @@ page,line,newcase_mark,text
 192,30,,ORDER PURSUANT TO
 192,31,,18 U.S.C. 2703(D)
 192,32,,CASE CLOSED on
-192,33,,4/13/2018
+192,33,,04/13/2018
 192,34,,APPLICATION for Order pursuant to 18 U.S.C.
 192,35,,2703(d) requiring records and other information to be
 192,36,,provided filed by UNITED STATES OF AMERICA.
@@ -7873,7 +7873,7 @@ page,line,newcase_mark,text
 193,7,,ORDER PURSUANT TO
 193,8,,18 U.S.C. 2703(D)
 193,9,,CASE CLOSED on
-193,10,,4/13/2018
+193,10,,04/13/2018
 193,11,,APPLICATION for Order pursuant to 18 U.S.C.
 193,12,,2703(d) requiring records and other information to be
 193,13,,provided filed by UNITED STATES OF AMERICA.
@@ -7897,7 +7897,7 @@ page,line,newcase_mark,text
 193,31,,ORDER PURSUANT TO
 193,32,,18 U.S.C. 2703(D)
 193,33,,CASE CLOSED on
-193,34,,4/13/2018
+193,34,,04/13/2018
 193,35,,APPLICATION for Order pursuant to 18 U.S.C.
 193,36,,2703(d) requiring records and other information to be
 193,37,,provided filed by UNITED STATES OF AMERICA.
@@ -7912,7 +7912,7 @@ page,line,newcase_mark,text
 194,7,,ORDER PURSUANT TO
 194,8,,18 U.S.C. 2703(D)
 194,9,,CASE CLOSED on
-194,10,,4/13/2018
+194,10,,04/13/2018
 194,11,,APPLICATION for Order pursuant to 18 U.S.C.
 194,12,,2703(d) requiring records and other information to be
 194,13,,provided filed by UNITED STATES OF AMERICA.
@@ -7925,7 +7925,7 @@ page,line,newcase_mark,text
 194,20,,ORDER PURSUANT TO
 194,21,,18 U.S.C. 2703(D)
 194,22,,CASE CLOSED on
-194,23,,4/17/2018
+194,23,,04/17/2018
 194,24,,APPLICATION for Order pursuant to 18 U.S.C.
 194,25,,2703(d) requiring records and other information to be
 194,26,,provided filed by UNITED STATES OF AMERICA.
@@ -7938,7 +7938,7 @@ page,line,newcase_mark,text
 194,33,,ORDER PURSUANT TO
 194,34,,18 U.S.C. 2703(D)
 194,35,,CASE CLOSED on
-194,36,,4/17/2018
+194,36,,04/17/2018
 194,37,,38
 194,38,,
 195,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -7953,7 +7953,7 @@ page,line,newcase_mark,text
 195,11,,ORDER PURSUANT TO
 195,12,,18 U.S.C. 2703(D)
 195,13,,CASE CLOSED on
-195,14,,4/17/2018
+195,14,,04/17/2018
 195,15,,APPLICATION for Order pursuant to 18 U.S.C.
 195,16,,2703(d) requiring records and other information to be
 195,17,,provided filed by UNITED STATES OF AMERICA.
@@ -7966,7 +7966,7 @@ page,line,newcase_mark,text
 195,24,,ORDER PURSUANT TO
 195,25,,18 U.S.C. 2703(D)
 195,26,,CASE CLOSED on
-195,27,,4/17/2018
+195,27,,04/17/2018
 195,28,,APPLICATION for Order pursuant to 18 U.S.C.
 195,29,,2703(d) requiring records and other information to be
 195,30,,provided filed by UNITED STATES OF AMERICA.
@@ -7981,7 +7981,7 @@ page,line,newcase_mark,text
 195,39,,39
 195,40,,
 196,2,,CASE CLOSED on
-196,3,,4/17/2018
+196,3,,04/17/2018
 196,4,,APPLICATION for Order pursuant to 18 U.S.C.
 196,5,,2703(d) requiring records and other information to be
 196,6,,provided filed by UNITED STATES OF AMERICA.
@@ -8006,7 +8006,7 @@ page,line,newcase_mark,text
 196,25,,ORDER PURSUANT TO
 196,26,,18 U.S.C. 2703(D)
 196,27,,CASE CLOSED on
-196,28,,4/18/2018
+196,28,,04/18/2018
 196,29,,APPLICATION for Order pursuant to 18 U.S.C.
 196,30,,2703(d) requiring records and other information to be
 196,31,,provided filed by UNITED STATES OF AMERICA.
@@ -8021,7 +8021,7 @@ page,line,newcase_mark,text
 196,40,,
 197,2,,18 U.S.C. 2703(D)
 197,3,,CASE CLOSED on
-197,4,,4/18/2018
+197,4,,04/18/2018
 197,5,,APPLICATION for Order pursuant to 18 U.S.C.
 197,6,,2703(d) requiring records and other information to be
 197,7,,provided filed by UNITED STATES OF AMERICA.
@@ -8038,7 +8038,7 @@ page,line,newcase_mark,text
 197,18,,ORDER PURSUANT TO
 197,19,,18 U.S.C. 2703(D)
 197,20,,CASE CLOSED on
-197,21,,4/19/2018
+197,21,,04/19/2018
 197,22,,APPLICATION for Order pursuant to 18 U.S.C.
 197,23,,2703(d) requiring records and other information to be
 197,24,,provided filed by UNITED STATES OF AMERICA.
@@ -8051,7 +8051,7 @@ page,line,newcase_mark,text
 197,31,,ORDER PURSUANT TO
 197,32,,18 U.S.C. 2703(D)
 197,33,,CASE CLOSED on
-197,34,,4/19/2018
+197,34,,04/19/2018
 197,35,,APPLICATION for Order pursuant to 18 U.S.C.
 197,36,,2703(d) requiring records and other information to be
 197,37,,provided filed by UNITED STATES OF AMERICA.
@@ -8066,7 +8066,7 @@ page,line,newcase_mark,text
 198,7,,ORDER PURSUANT TO
 198,8,,18 U.S.C. 2703(D)
 198,9,,CASE CLOSED on
-198,10,,4/19/2018
+198,10,,04/19/2018
 198,11,,APPLICATION for Order pursuant to 18 U.S.C.
 198,12,,2703(d) requiring records and other information to be
 198,13,,provided filed by UNITED STATES OF AMERICA.
@@ -8079,7 +8079,7 @@ page,line,newcase_mark,text
 198,20,,ORDER PURSUANT TO
 198,21,,18 U.S.C. 2703(D)
 198,22,,CASE CLOSED on
-198,23,,4/23/2018
+198,23,,04/23/2018
 198,24,,APPLICATION for Order pursuant to 18 U.S.C.
 198,25,,2703(d) requiring records and other information to be
 198,26,,provided filed by UNITED STATES OF AMERICA.
@@ -8092,7 +8092,7 @@ page,line,newcase_mark,text
 198,33,,ORDER PURSUANT TO
 198,34,,18 U.S.C. 2703(D)
 198,35,,CASE CLOSED on
-198,36,,4/23/2018
+198,36,,04/23/2018
 198,37,,APPLICATION for Order pursuant to 18 U.S.C.
 198,38,,2703(d) requiring
 198,39,,42
@@ -8114,7 +8114,7 @@ page,line,newcase_mark,text
 199,16,,ORDER PURSUANT TO
 199,17,,18 U.S.C. 2703(D)
 199,18,,CASE CLOSED on
-199,19,,4/25/2018
+199,19,,04/25/2018
 199,20,,APPLICATION for Order pursuant to 18 U.S.C.
 199,21,,2703(d) requiring records and other information to be
 199,22,,provided filed by UNITED STATES OF AMERICA.
@@ -8127,7 +8127,7 @@ page,line,newcase_mark,text
 199,29,,ORDER PURSUANT TO
 199,30,,18 U.S.C. 2703(D)
 199,31,,CASE CLOSED on
-199,32,,4/25/2018
+199,32,,04/25/2018
 199,33,,APPLICATION for Order pursuant to 18 U.S.C.
 199,34,,2703(d) requiring records and other information to be
 199,35,,provided filed by UNITED STATES OF AMERICA.
@@ -8142,7 +8142,7 @@ page,line,newcase_mark,text
 200,4,,ORDER PURSUANT TO
 200,5,,18 U.S.C. 2703(D)
 200,6,,CASE CLOSED on
-200,7,,4/26/2018
+200,7,,04/26/2018
 200,8,,APPLICATION for Order pursuant to 18 U.S.C.
 200,9,,2703(d) requiring records and other information to be
 200,10,,provided filed by UNITED STATES OF AMERICA.
@@ -8155,7 +8155,7 @@ page,line,newcase_mark,text
 200,17,,ORDER PURSUANT TO
 200,18,,18 U.S.C. 2703(D)
 200,19,,CASE CLOSED on
-200,20,,4/25/2018
+200,20,,04/25/2018
 200,21,,APPLICATION for Order pursuant to 18 U.S.C.
 200,22,,2703(d) requiring records and other information to be
 200,23,,provided filed by UNITED STATES OF AMERICA.
@@ -8168,7 +8168,7 @@ page,line,newcase_mark,text
 200,30,,ORDER PURSUANT TO
 200,31,,18 U.S.C. 2703(D)
 200,32,,CASE CLOSED on
-200,33,,4/30/2018
+200,33,,04/30/2018
 200,34,,APPLICATION for Order pursuant to 18 U.S.C.
 200,35,,2703(d) requiring records and other information to be
 200,36,,provided filed by UNITED STATES OF AMERICA.
@@ -8183,7 +8183,7 @@ page,line,newcase_mark,text
 201,6,,ORDER PURSUANT TO
 201,7,,18 U.S.C. 2703(D)
 201,8,,CASE CLOSED on
-201,9,,4/30/2018
+201,9,,04/30/2018
 201,10,,APPLICATION for Order pursuant to 18 U.S.C.
 201,11,,2703(d) requiring records and other information to be
 201,12,,provided filed by UNITED STATES OF AMERICA.
@@ -8196,7 +8196,7 @@ page,line,newcase_mark,text
 201,19,,ORDER PURSUANT TO
 201,20,,18 U.S.C. 2703(D)
 201,21,,CASE CLOSED on
-201,22,,4/30/2018
+201,22,,04/30/2018
 201,23,,APPLICATION for Order pursuant to 18 U.S.C.
 201,24,,2703(d) requiring records and other information to be
 201,25,,provided filed by UNITED STATES OF AMERICA.
@@ -8209,7 +8209,7 @@ page,line,newcase_mark,text
 201,32,,ORDER PURSUANT TO
 201,33,,18 U.S.C. 2703(D)
 201,34,,CASE CLOSED on
-201,35,,5/2/2018
+201,35,,05/02/2018
 201,36,,APPLICATION for Order pursuant to 18 U.S.C.
 201,37,,2703(d) requiring records and other information to be
 201,38,,provided filed by UNITED STATES OF AMERICA.
@@ -8224,7 +8224,7 @@ page,line,newcase_mark,text
 202,7,,ORDER PURSUANT TO
 202,8,,18 U.S.C. 2703(D)
 202,9,,CASE CLOSED on
-202,10,,5/3/2018
+202,10,,05/03/2018
 202,11,,APPLICATION for Order pursuant to 18 U.S.C.
 202,12,,2703(d) requiring records and other information to be
 202,13,,provided filed by UNITED STATES OF AMERICA.
@@ -8237,7 +8237,7 @@ page,line,newcase_mark,text
 202,20,,ORDER PURSUANT TO
 202,21,,18 U.S.C. 2703(D)
 202,22,,CASE CLOSED on
-202,23,,5/7/2018
+202,23,,05/07/2018
 202,24,,APPLICATION for Order pursuant to 18 U.S.C.
 202,25,,2703(d) requiring records and other information to be
 202,26,,provided filed by UNITED STATES OF AMERICA.
@@ -8264,7 +8264,7 @@ page,line,newcase_mark,text
 203,11,,ORDER PURSUANT TO
 203,12,,18 U.S.C. 2703(D)
 203,13,,CASE CLOSED on
-203,14,,5/7/2018
+203,14,,05/07/2018
 203,15,,APPLICATION for Order pursuant to 18 U.S.C.
 203,16,,2703(d) requiring records and other information to be
 203,17,,provided filed by UNITED STATES OF AMERICA.
@@ -8277,7 +8277,7 @@ page,line,newcase_mark,text
 203,24,,ORDER PURSUANT TO
 203,25,,18 U.S.C. 2703(D)
 203,26,,CASE CLOSED on
-203,27,,5/7/2018
+203,27,,05/07/2018
 203,28,,APPLICATION for Order pursuant to 18 U.S.C.
 203,29,,2703(d) requiring records and other information to be
 203,30,,provided filed by UNITED STATES OF AMERICA.
@@ -8292,7 +8292,7 @@ page,line,newcase_mark,text
 203,39,,47
 203,40,,
 204,2,,CASE CLOSED on
-204,3,,5/7/2018
+204,3,,05/07/2018
 204,4,,APPLICATION for Order pursuant to 18 U.S.C.
 204,5,,2703(d) requiring records and other information to be
 204,6,,provided filed by UNITED STATES OF AMERICA.
@@ -8305,7 +8305,7 @@ page,line,newcase_mark,text
 204,13,,ORDER PURSUANT TO
 204,14,,18 U.S.C. 2703(D)
 204,15,,CASE CLOSED on
-204,16,,5/7/2018
+204,16,,05/07/2018
 204,17,,APPLICATION for Order pursuant to 18 U.S.C.
 204,18,,2703(d) requiring records and other information to be
 204,19,,provided filed by UNITED STATES OF AMERICA.
@@ -8318,7 +8318,7 @@ page,line,newcase_mark,text
 204,26,,ORDER PURSUANT TO
 204,27,,18 U.S.C. 2703(D)
 204,28,,CASE CLOSED on
-204,29,,5/8/2018
+204,29,,05/08/2018
 204,30,,APPLICATION for Order pursuant to 18 U.S.C.
 204,31,,2703(d) requiring records and other information to be
 204,32,,provided filed by UNITED STATES OF AMERICA.
@@ -8333,7 +8333,7 @@ page,line,newcase_mark,text
 205,2,,ORDER PURSUANT TO
 205,3,,18 U.S.C. 2703(D)
 205,4,,CASE CLOSED on
-205,5,,5/8/2018
+205,5,,05/08/2018
 205,6,,APPLICATION for Order pursuant to 18 U.S.C.
 205,7,,2703(d) requiring records and other information to be
 205,8,,provided filed by UNITED STATES OF AMERICA.
@@ -8346,7 +8346,7 @@ page,line,newcase_mark,text
 205,15,,ORDER PURSUANT TO
 205,16,,18 U.S.C. 2703(D)
 205,17,,CASE CLOSED on
-205,18,,5/14/2018
+205,18,,05/14/2018
 205,19,,APPLICATION for Order pursuant to 18 U.S.C.
 205,20,,2703(d) requiring records and other information to be
 205,21,,provided filed by UNITED STATES OF AMERICA.
@@ -8373,7 +8373,7 @@ page,line,newcase_mark,text
 206,3,,ORDER PURSUANT TO
 206,4,,18 U.S.C. 2703(D)
 206,5,,CASE CLOSED on
-206,6,,5/16/2018
+206,6,,05/16/2018
 206,7,,APPLICATION for Order pursuant to 18 U.S.C.
 206,8,,2703(d) requiring records and other information to be
 206,9,,provided filed by UNITED STATES OF AMERICA.
@@ -8386,7 +8386,7 @@ page,line,newcase_mark,text
 206,16,,ORDER PURSUANT TO
 206,17,,18 U.S.C. 2703(D)
 206,18,,CASE CLOSED on
-206,19,,5/21/2018
+206,19,,05/21/2018
 206,20,,APPLICATION for Order pursuant to 18 U.S.C.
 206,21,,2703(d) requiring records and other information to be
 206,22,,provided filed by UNITED STATES OF AMERICA.
@@ -8399,7 +8399,7 @@ page,line,newcase_mark,text
 206,29,,ORDER PURSUANT TO
 206,30,,18 U.S.C. 2703(D)
 206,31,,CASE CLOSED on
-206,32,,5/18/2018
+206,32,,05/18/2018
 206,33,,APPLICATION for Order pursuant to 18 U.S.C.
 206,34,,2703(d) requiring records and other information to be
 206,35,,provided filed by UNITED STATES OF AMERICA.
@@ -8414,7 +8414,7 @@ page,line,newcase_mark,text
 207,5,,ORDER PURSUANT TO
 207,6,,18 U.S.C. 2703(D)
 207,7,,CASE CLOSED on
-207,8,,5/22/2018
+207,8,,05/22/2018
 207,9,,APPLICATION for Order pursuant to 18 U.S.C.
 207,10,,2703(d) requiring records and other information to be
 207,11,,provided filed by UNITED STATES OF AMERICA.
@@ -8439,7 +8439,7 @@ page,line,newcase_mark,text
 207,30,,ORDER PURSUANT TO
 207,31,,18 U.S.C. 2703(D)
 207,32,,CASE CLOSED on
-207,33,,5/24/2018
+207,33,,05/24/2018
 207,34,,APPLICATION for Order pursuant to 18 U.S.C.
 207,35,,2703(d) requiring records and other information to be
 207,36,,provided filed by UNITED STATES OF AMERICA.
@@ -8454,7 +8454,7 @@ page,line,newcase_mark,text
 208,6,,ORDER PURSUANT TO
 208,7,,18 U.S.C. 2703(D)
 208,8,,CASE CLOSED on
-208,9,,5/24/2018
+208,9,,05/24/2018
 208,10,,APPLICATION for Order pursuant to 18 U.S.C.
 208,11,,2703(d) requiring records and other information to be
 208,12,,provided filed by UNITED STATES OF AMERICA.
@@ -8467,7 +8467,7 @@ page,line,newcase_mark,text
 208,19,,ORDER PURSUANT TO
 208,20,,18 U.S.C. 2703(D)
 208,21,,CASE CLOSED on
-208,22,,5/24/2018
+208,22,,05/24/2018
 208,23,,APPLICATION for Order pursuant to 18 U.S.C.
 208,24,,2703(d) requiring records and other information to be
 208,25,,provided filed by UNITED STATES OF AMERICA.
@@ -8480,7 +8480,7 @@ page,line,newcase_mark,text
 208,32,,ORDER PURSUANT TO
 208,33,,18 U.S.C. 2703(D)
 208,34,,CASE CLOSED on
-208,35,,5/24/2018
+208,35,,05/24/2018
 208,36,,APPLICATION for Order pursuant to 18 U.S.C.
 208,37,,2703(d) requiring records and other information to be
 208,38,,provided filed by UNITED STATES OF AMERICA.
@@ -8495,7 +8495,7 @@ page,line,newcase_mark,text
 209,7,,ORDER PURSUANT TO
 209,8,,18 U.S.C. 2703(D)
 209,9,,CASE CLOSED on
-209,10,,5/24/2018
+209,10,,05/24/2018
 209,11,,APPLICATION for Order pursuant to 18 U.S.C.
 209,12,,2703(d) requiring records and other information to be
 209,13,,provided filed by UNITED STATES OF AMERICA.
@@ -8508,7 +8508,7 @@ page,line,newcase_mark,text
 209,20,,ORDER PURSUANT TO
 209,21,,18 U.S.C. 2703(D)
 209,22,,CASE CLOSED on
-209,23,,5/24/2018
+209,23,,05/24/2018
 209,24,,APPLICATION for Order pursuant to 18 U.S.C.
 209,25,,2703(d) requiring records and other information to be
 209,26,,provided filed by UNITED STATES OF AMERICA.
@@ -8521,7 +8521,7 @@ page,line,newcase_mark,text
 209,33,,ORDER PURSUANT TO
 209,34,,18 U.S.C. 2703(D)
 209,35,,CASE CLOSED on
-209,36,,5/24/2018
+209,36,,05/24/2018
 209,37,,53
 209,38,,
 210,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -8548,7 +8548,7 @@ page,line,newcase_mark,text
 210,23,,ORDER PURSUANT TO
 210,24,,18 U.S.C. 2703(D)
 210,25,,CASE CLOSED on
-210,26,,5/25/2018
+210,26,,05/25/2018
 210,27,,APPLICATION for Order pursuant to 18 U.S.C.
 210,28,,2703(d) requiring records and other information to be
 210,29,,provided filed by UNITED STATES OF AMERICA.
@@ -8563,7 +8563,7 @@ page,line,newcase_mark,text
 210,38,,54
 210,39,,
 211,2,,CASE CLOSED on
-211,3,,5/25/2018
+211,3,,05/25/2018
 211,4,,APPLICATION for Order pursuant to 18 U.S.C.
 211,5,,2703(d) requiring records and other information to be
 211,6,,provided filed by UNITED STATES OF AMERICA.
@@ -8576,7 +8576,7 @@ page,line,newcase_mark,text
 211,13,,ORDER PURSUANT TO
 211,14,,18 U.S.C. 2703(D)
 211,15,,CASE CLOSED on
-211,16,,5/25/2018
+211,16,,05/25/2018
 211,17,,APPLICATION for Order pursuant to 18 U.S.C.
 211,18,,2703(d) requiring records and other information to be
 211,19,,provided filed by UNITED STATES OF AMERICA.
@@ -8589,7 +8589,7 @@ page,line,newcase_mark,text
 211,26,,ORDER PURSUANT TO
 211,27,,18 U.S.C. 2703(D)
 211,28,,CASE CLOSED on
-211,29,,5/29/2018
+211,29,,05/29/2018
 211,30,,APPLICATION for Order pursuant to 18 U.S.C.
 211,31,,2703(d) requiring records and other information to be
 211,32,,provided filed by UNITED STATES OF AMERICA.
@@ -8604,7 +8604,7 @@ page,line,newcase_mark,text
 212,2,,ORDER PURSUANT TO
 212,3,,18 U.S.C. 2703(D)
 212,4,,CASE CLOSED on
-212,5,,5/29/2018
+212,5,,05/29/2018
 212,6,,APPLICATION for Order pursuant to 18 U.S.C.
 212,7,,2703(d) requiring records and other information to be
 212,8,,provided filed by UNITED STATES OF AMERICA.
@@ -8617,7 +8617,7 @@ page,line,newcase_mark,text
 212,15,,ORDER PURSUANT TO
 212,16,,18 U.S.C. 2703(D)
 212,17,,CASE CLOSED on
-212,18,,5/29/2018
+212,18,,05/29/2018
 212,19,,APPLICATION for Order pursuant to 18 U.S.C.
 212,20,,2703(d) requiring records and other information to be
 212,21,,provided filed by UNITED STATES OF AMERICA.
@@ -8630,7 +8630,7 @@ page,line,newcase_mark,text
 212,28,,ORDER PURSUANT TO
 212,29,,18 U.S.C. 2703(D)
 212,30,,CASE CLOSED on
-212,31,,5/29/2018
+212,31,,05/29/2018
 212,32,,APPLICATION for Order pursuant to 18 U.S.C.
 212,33,,2703(d) requiring records and other information to be
 212,34,,provided filed by UNITED STATES OF AMERICA.
@@ -8657,7 +8657,7 @@ page,line,newcase_mark,text
 213,16,,ORDER PURSUANT TO
 213,17,,18 U.S.C. 2703(D)
 213,18,,CASE CLOSED on
-213,19,,5/29/2018
+213,19,,05/29/2018
 213,20,,APPLICATION for Order pursuant to 18 U.S.C.
 213,21,,2703(d) requiring records and other information to be
 213,22,,provided filed by UNITED STATES OF AMERICA.
@@ -8670,7 +8670,7 @@ page,line,newcase_mark,text
 213,29,,ORDER PURSUANT TO
 213,30,,18 U.S.C. 2703(D)
 213,31,,CASE CLOSED on
-213,32,,5/29/2018
+213,32,,05/29/2018
 213,33,,APPLICATION for Order pursuant to 18 U.S.C.
 213,34,,2703(d) requiring records and other information to be
 213,35,,provided filed by UNITED STATES OF AMERICA.
@@ -8685,7 +8685,7 @@ page,line,newcase_mark,text
 214,6,,ORDER PURSUANT TO
 214,7,,18 U.S.C. 2703(D)
 214,8,,CASE CLOSED on
-214,9,,5/29/2018
+214,9,,05/29/2018
 214,10,,APPLICATION for Order pursuant to 18 U.S.C.
 214,11,,2703(d) requiring records and other information to be
 214,12,,provided filed by UNITED STATES OF AMERICA.
@@ -8698,7 +8698,7 @@ page,line,newcase_mark,text
 214,19,,ORDER PURSUANT TO
 214,20,,18 U.S.C. 2703(D)
 214,21,,CASE CLOSED on
-214,22,,5/29/2018
+214,22,,05/29/2018
 214,23,,APPLICATION for Order pursuant to 18 U.S.C.
 214,24,,2703(d) requiring records and other information to be
 214,25,,provided filed by UNITED STATES OF AMERICA.
@@ -8711,7 +8711,7 @@ page,line,newcase_mark,text
 214,32,,ORDER PURSUANT TO
 214,33,,18 U.S.C. 2703(D)
 214,34,,CASE CLOSED on
-214,35,,5/31/2018
+214,35,,05/31/2018
 214,36,,58
 214,37,,
 215,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -8726,7 +8726,7 @@ page,line,newcase_mark,text
 215,11,,ORDER PURSUANT TO
 215,12,,18 U.S.C. 2703(D)
 215,13,,CASE CLOSED on
-215,14,,5/31/2018
+215,14,,05/31/2018
 215,15,,APPLICATION for Order pursuant to 18 U.S.C.
 215,16,,2703(d) requiring records and other information to be
 215,17,,provided filed by UNITED STATES OF AMERICA.
@@ -8739,7 +8739,7 @@ page,line,newcase_mark,text
 215,24,,ORDER PURSUANT TO
 215,25,,18 U.S.C. 2703(D)
 215,26,,CASE CLOSED on
-215,27,,5/31/2018
+215,27,,05/31/2018
 215,28,,APPLICATION for Order pursuant to 18 U.S.C.
 215,29,,2703(d) requiring records and other information to be
 215,30,,provided filed by UNITED STATES OF AMERICA.
@@ -8754,7 +8754,7 @@ page,line,newcase_mark,text
 215,39,,59
 215,40,,
 216,2,,CASE CLOSED on
-216,3,,5/31/2018
+216,3,,05/31/2018
 216,4,,APPLICATION for Order pursuant to 18 U.S.C.
 216,5,,2703(d) requiring records and other information to be
 216,6,,provided filed by UNITED STATES OF AMERICA.
@@ -8767,7 +8767,7 @@ page,line,newcase_mark,text
 216,13,,ORDER PURSUANT TO
 216,14,,18 U.S.C. 2703(D)
 216,15,,CASE CLOSED on
-216,16,,6/18/2018
+216,16,,06/18/2018
 216,17,,APPLICATION for Order pursuant to 18 U.S.C.
 216,18,,2703(d) requiring records and other information to be
 216,19,,provided filed by UNITED STATES OF AMERICA.
@@ -8780,7 +8780,7 @@ page,line,newcase_mark,text
 216,26,,ORDER PURSUANT TO
 216,27,,18 U.S.C. 2703(D)
 216,28,,CASE CLOSED on
-216,29,,6/20/2018
+216,29,,06/20/2018
 216,30,,APPLICATION for Order pursuant to 18 U.S.C.
 216,31,,2703(d) requiring records and other information to be
 216,32,,provided filed by UNITED STATES OF AMERICA.
@@ -8795,7 +8795,7 @@ page,line,newcase_mark,text
 217,2,,ORDER PURSUANT TO
 217,3,,18 U.S.C. 2703(D)
 217,4,,CASE CLOSED on
-217,5,,6/25/2018
+217,5,,06/25/2018
 217,6,,APPLICATION for Order pursuant to 18 U.S.C.
 217,7,,2703(d) requiring records and other information to be
 217,8,,provided filed by UNITED STATES OF AMERICA.
@@ -8808,7 +8808,7 @@ page,line,newcase_mark,text
 217,15,,ORDER PURSUANT TO
 217,16,,18 U.S.C. 2703(D)
 217,17,,CASE CLOSED on
-217,18,,7/25/2018
+217,18,,07/25/2018
 217,19,,APPLICATION for Order pursuant to 18 U.S.C.
 217,20,,2703(d) requiring records and other information to be
 217,21,,provided filed by UNITED STATES OF AMERICA.
@@ -8821,7 +8821,7 @@ page,line,newcase_mark,text
 217,28,,ORDER PURSUANT TO
 217,29,,18 U.S.C. 2703(D)
 217,30,,CASE CLOSED on
-217,31,,7/27/2018
+217,31,,07/27/2018
 217,32,,APPLICATION for Order pursuant to 18 U.S.C.
 217,33,,2703(d) requiring records and other information to be
 217,34,,provided filed by UNITED STATES OF AMERICA.
@@ -8836,7 +8836,7 @@ page,line,newcase_mark,text
 218,4,,ORDER PURSUANT TO
 218,5,,18 U.S.C. 2703(D)
 218,6,,CASE CLOSED on
-218,7,,7/30/2018
+218,7,,07/30/2018
 218,8,,APPLICATION for Order pursuant to 18 U.S.C.
 218,9,,2703(d) requiring records and other information to be
 218,10,,provided filed by UNITED STATES OF AMERICA.
@@ -8864,7 +8864,7 @@ page,line,newcase_mark,text
 218,32,,ORDER PURSUANT TO
 218,33,,18 U.S.C. 2703(D)
 218,34,,CASE CLOSED on
-218,35,,8/9/2018
+218,35,,08/09/2018
 218,36,,APPLICATION for Order pursuant to 18 U.S.C.
 218,37,,2703(d) requiring records and other information to be
 218,38,,provided filed by UNITED STATES OF AMERICA.
@@ -8878,7 +8878,7 @@ page,line,newcase_mark,text
 219,6,,ORDER PURSUANT TO
 219,7,,18 U.S.C. 2703(D)
 219,8,,CASE CLOSED on
-219,9,,8/28/2018
+219,9,,08/28/2018
 219,10,,APPLICATION for Order pursuant to 18 U.S.C.
 219,11,,2703(d) requiring records and other information to be
 219,12,,provided filed by UNITED STATES OF AMERICA.
@@ -8892,7 +8892,7 @@ page,line,newcase_mark,text
 219,20,,ORDER PURSUANT TO
 219,21,,18 U.S.C. 2703(D)
 219,22,,CASE CLOSED on
-219,23,,8/28/2018
+219,23,,08/28/2018
 219,24,,APPLICATION for Order pursuant to 18 U.S.C.
 219,25,,2703(d) requiring records and other information to be
 219,26,,provided filed by UNITED STATES OF AMERICA.
@@ -8905,7 +8905,7 @@ page,line,newcase_mark,text
 219,33,,ORDER PURSUANT TO
 219,34,,18 U.S.C. 2703 (D)
 219,35,,CASE CLOSED on
-219,36,,9/24/2018
+219,36,,09/24/2018
 219,37,,63
 219,38,,
 220,2,,APPLICATION for Order pursuant to 18 U.S.C.
@@ -8921,7 +8921,7 @@ page,line,newcase_mark,text
 220,12,,ORDER PURSUANT TO
 220,13,,18 U.S.C. 2703 (D)
 220,14,,CASE CLOSED on
-220,15,,9/26/2018
+220,15,,09/26/2018
 220,16,,APPLICATION for Order pursuant to 18 U.S.C.
 220,17,,2703(d) requiring records and other information to be
 220,18,,provided filed by UNITED STATES OF AMERICA.
@@ -8934,7 +8934,7 @@ page,line,newcase_mark,text
 220,25,,ORDER PURSUANT TO
 220,26,,18 U.S.C. 2703(D)
 220,27,,CASE CLOSED on
-220,28,,2/21/2019
+220,28,,02/21/2019
 220,29,,APPLICATION for Order pursuant to 18 U.S.C.
 220,30,,2703(d) requiring records and other information to be
 220,31,,provided filed by UNITED STATES OF AMERICA.
@@ -8949,7 +8949,7 @@ page,line,newcase_mark,text
 220,40,,CASE CLOSED on
 220,41,,64
 220,42,,
-221,2,,3/7/2019
+221,2,,03/07/2019
 221,3,,APPLICATION for Order pursuant to 18 U.S.C.
 221,4,,2703(d) requiring records and other information to be
 221,5,,provided filed by UNITED STATES OF AMERICA.
