@@ -25,9 +25,18 @@ test <- data %>%
     date_filed = str_trim(gsub(".*FILED:\\s*", "", dates)),
     category = str_trim(gsub(".*CATEGORY:\\s*|EVENT.*", "", category_event)),
     event = str_trim(gsub(".*EVENT:\\s*|DOCUMENT.*", "", category_event)),
-    document = str_trim(gsub(".*DOCUMENT:\\s*", "", category_event))
+    document = str_trim(gsub(".*DOCUMENT:\\s*", "", category_event)),
+    sealed = if_else(
+          str_detect(case_number_title, "SEALED"), "YES", "NO"),
+    redactions = if_else(
+      str_detect(case_number_title, "REDACTED"), "YES", "NO"),
+    case_num = str_sub(case_number_title, 1, 17)
+    
   )
 
+
+data %>% 
+  filter(str_detect(case_number_title, "SEALED"))
 
 # 
 # df <- tibble(
