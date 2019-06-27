@@ -30,8 +30,14 @@ test <- data %>%
           str_detect(case_number_title, "SEALED"), "YES", "NO"),
     redactions = if_else(
       str_detect(case_number_title, "REDACTED"), "YES", "NO"),
-    case_num = str_sub(case_number_title, 1, 17)
-    
+    case_num = str_sub(case_number_title, 1, 17),
+    case_closed = if_else(
+      str_detect(case_number_title, "CASE CLOSED"), "YES", "NO"),
+    case_closed_date = if_else(
+      str_detect(case_number_title, "CASE CLOSED"),
+      str_trim(gsub(".*CASE CLOSED ON\\s*", "", case_number_title)),
+      "")
+      
   )
 
 
