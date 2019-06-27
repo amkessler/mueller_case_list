@@ -19,7 +19,7 @@ head(data)
 
 
 #begin extracting elements into new fields using string functions/regex
-test <- data %>% 
+data_extracted <- data %>% 
   mutate(
     date_entered = str_trim(gsub(".*ENTERED:\\s*|FILED.*", "", dates)),
     date_filed = str_trim(gsub(".*FILED:\\s*", "", dates)),
@@ -31,6 +31,7 @@ test <- data %>%
     redactions = if_else(
       str_detect(case_number_title, "REDACTED"), "YES", "NO"),
     case_num = str_sub(case_number_title, 1, 17),
+    case_title = str_sub(case_number_title, 18, 200),
     case_closed = if_else(
       str_detect(case_number_title, "CASE CLOSED"), "YES", "NO"),
     case_closed_date = if_else(
@@ -41,8 +42,15 @@ test <- data %>%
   )
 
 
-data %>% 
-  filter(str_detect(case_number_title, "SEALED"))
+#clean up the title field
+data_extracted <- data_extracted %>% 
+  mutate(
+    case_title = str_remove(case_title, ".SEALED."),
+    case_title = str_remove(case_title, "CASE CLOSED.*")
+  )
+
+
+
 
 # 
 # df <- tibble(
