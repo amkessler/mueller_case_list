@@ -73,6 +73,12 @@ data_extracted <- data_extracted %>%
   )
 
 
+# write to file
+write_csv(data_extracted, "sampledata_extracted.csv")
+
+
+
+
 
 # 
 # df <- tibble(
