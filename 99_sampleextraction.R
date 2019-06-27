@@ -42,13 +42,35 @@ data_extracted <- data %>%
   )
 
 
-#clean up the title field
+#clean up the title field to remove certain text strings
 data_extracted <- data_extracted %>% 
   mutate(
     case_title = str_remove(case_title, ".SEALED."),
-    case_title = str_remove(case_title, "CASE CLOSED.*")
+    case_title = str_remove(case_title, "CASE CLOSED.*"),
+    case_title = str_squish(case_title)
   )
 
+
+#reorder columns
+names(data_extracted)
+
+data_extracted <- data_extracted %>% 
+  select(
+    case_num,
+    case_title,
+    sealed,
+    redactions,
+    case_closed,
+    case_closed_date,
+    date_entered,
+    date_filed,
+    category,
+    document,
+    RAW_case_number_title = case_number_title,
+    RAW_dates = dates,
+    RAW_category_event = category_event,
+    RAW_additional_description = additional_description
+  )
 
 
 
